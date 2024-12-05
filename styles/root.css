@@ -1,0 +1,26 @@
+:root {
+	--bg-color: #2A2D43;
+	--navbar-color: #414361;
+	--footer-color: #414361;
+	--text-color: #FFA9E7;
+	--heading-color: #FF84E8;
+	--accent-color: #7F2CCB;
+
+	--font-body: 'Roboto', sans-serif;
+	--font-heading: 'Montserrat', sans-serif;
+
+
+}
+body {
+	background-color: var(--bg-color);
+	color: var(--text-color);
+	font-family: var(--font-body);
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: var(--font-heading);
+	color: var(--heading-color);
+	margin-bottom: 0;
+	margin-top: 0;
+}
