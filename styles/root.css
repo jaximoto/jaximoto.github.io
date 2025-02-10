@@ -1,10 +1,13 @@
 :root {
-	--bg-color: #2A2D43;
-	--navbar-color: #414361;
-	--footer-color: #414361;
-	--text-color: #FFA9E7;
-	--heading-color: #FF84E8;
-	--accent-color: #7F2CCB;
+	--bg-color: #0D1B2A;
+	--navbar-color: #FF6700;
+	--footer-color: #0A1420;
+	--text-color: #F5F5F5;
+	--heading-color: #FF6700;
+	--accent-color: #00A6A6;
+	--social-links-default: #00A6A6;
+	--social-links-hover: #56E39F;
+	--social-links-active: #89ffca;
 
 	--font-body: 'Roboto', sans-serif;
 	--font-heading: 'Montserrat', sans-serif;
